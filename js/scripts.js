@@ -15,7 +15,7 @@ document.getElementById('contactForm').addEventListener('submit', function (e) {
 
     // Nomor WhatsApp pembuat web (format internasional, tanpa + atau 0 di depan)
     // Contoh: 08123456789 -> 628123456789
-    const waNumber = '081376508809'; // GANTI dengan nomor WhatsApp kamu
+    const waNumber = '6281376508809'; // GANTI dengan nomor WhatsApp kamu
 
     // Susun teks pesan
     const text =
